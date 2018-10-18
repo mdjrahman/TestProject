@@ -6,6 +6,8 @@ public class Sample {
 		
 		System.out.println("Git push");
 		
+		System.out.println("it push to git");
+		
 		
 	}
 
